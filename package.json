@@ -1,0 +1,22 @@
+{
+  "name": "tinkoff_internship_task",
+  "version": "1.0.0",
+  "description": "tinkoff internship task",
+  "main": "db.js",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PetrovaDaria/tinkoff_internship_task.git"
+  },
+  "keywords": [
+    "internship",
+    "javascript"
+  ],
+  "author": "Petrova Daria"
+}
